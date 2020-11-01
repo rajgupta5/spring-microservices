@@ -106,7 +106,34 @@ With Microservices, focus is shifting to getting started with developing web app
 - Step 4 : Creating a Simple REST Controller
 - Step 5 : What is Spring Boot Auto Configuration?
   - To see the logs set 'logging.level.org.springframework = debug' in application.properties
-- Step 6 : Spring Boot vs Spring vs Spring MVC
+- Step 6 : Spring Boot vs Spring vs Spring MVC [https://www.springboottutorial.com/spring-boot-vs-spring-mvc-vs-spring]
+  - What is the core problem that Spring Framework solves?
+    - Most important feature of Spring Framework is Dependency Injection. At the core of all Spring Modules is Dependency Injection or IOC Inversion of Control.
+    - When DI or IOC is used properly, we can develop loosely coupled applications. And loosely coupled applications can be easily unit tested
+  - What else does Spring Framework solve?
+    - Problem 1 : Duplication/Plumbing Code
+    - Problem 2 : Good Integration with Other Frameworks.
+  - What is the core problem that Spring MVC Framework solves?
+    - Spring MVC Framework provides decoupled way of developing web applications. With simple concepts like Dispatcher Servlet, ModelAndView and View Resolver, it makes it easy to develop web applications.
+  - Why do we need Spring Boot?
+    - Spring based applications have a lot of configuration.
+    - Problem #1 : Spring Boot Auto Configuration : Can we think different?
+    - Spring Boot looks at a) Frameworks available on the CLASSPATH b) Existing configuration for the application. Based on these, Spring Boot provides basic configuration needed to configure the application with these frameworks. This is called Auto Configuration.
+    - Problem #2 : Spring Boot Starter Projects : Built around well known patterns
+    - Starters are a set of convenient dependency descriptors that you can include in your application. You get a one-stop-shop for all the Spring and related technology that you need, without having to hunt through sample code and copy paste loads of dependency descriptors. For example, if you want to get started using Spring and JPA for database access, just include the spring-boot-starter-data-jpa dependency in your project, and you are good to go.
+    - Other Goals of Spring Boot
+      - spring-boot-starter-actuator - To use advanced features like monitoring & tracing to your application out of the box
+      - spring-boot-starter-undertow, spring-boot-starter-jetty, spring-boot-starter-tomcat - To pick your specific choice of Embedded Servlet Container
+      - spring-boot-starter-logging - For Logging using logback
+      - spring-boot-starter-log4j2 - Logging using Log4j2
+      - Spring Boot aims to enable production ready applications in quick time
+      - Actuator : Enables Advanced Monitoring and Tracing of applications.
+      - Embedded Server Integrations - Since server is integrated into the application, I would NOT need to have a separate application server installed on the server.
+      - Default Error Handling
+
+
+
+
 - Step 7 : Spring Boot Starter Projects - Starter Web and Starter JPA
 - Step 8 : Overview of different Spring Boot Starter Projects
 - Step 9 : Spring Boot Actuator
