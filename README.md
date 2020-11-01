@@ -114,3 +114,8 @@ With Microservices, focus is shifting to getting started with developing web app
 
 ### References
 - https://github.com/in28minutes
+- https://www.springboottutorial.com/
+- http://start.spring.io
+- https://www.youtube.com/watch?v=Ch163VfHtvA&list=PLsyeobzWxl7oA8QOlMtQsRT_I7Rx2hoX4
+- https://www.youtube.com/watch?v=sdDDuQuX2cg&list=PL0zysOflRCekYnhLjQGwpdJYzr38QXdhl
+
