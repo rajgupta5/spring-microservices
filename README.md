@@ -18,9 +18,6 @@ In the second part of the course, you will learn the basics of Microservices. Yo
 
 In this part of the course, you will learn to establish communication between microservices, enable load balancing, scaling up and down of microservices. You will also learn to centralize configuration of microservices with Spring Cloud Config Server. You will implement Eureka Naming Server and Distributed tracing with Spring Cloud Sleuth and Zipkin. You will create fault toleranct microservices with Zipkin
 
-
-### Introduction
-
 Spring reduces the complexity of enterprise java applications. Incredibly modular architecture of spring helps in picking and choosing the right spring modules to use to suit our needs. Spring reduces the cost of programming to interfaces to almost zero.
 
 ### Why is Spring Popular?
