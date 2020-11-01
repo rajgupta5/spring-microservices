@@ -54,3 +54,13 @@ Unit Testing builds up Loose Coupling. Architecture Flexibility is a result of S
 - AOP
 - Test
 - XML
+
+
+### Spring Boot Introduction
+Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that you can “just run”. Most Spring Boot applications need very little Spring configuration.
+
+With Microservices, focus is shifting to getting started with developing web applications quickly. Spring Boot enables this.
+
+
+### References
+- https://github.com/in28minutes
