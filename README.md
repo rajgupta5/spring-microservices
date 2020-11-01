@@ -66,6 +66,9 @@ Spring Boot makes it easy to create stand-alone, production-grade Spring based A
 With Microservices, focus is shifting to getting started with developing web applications quickly. Spring Boot enables this.
 
 ### Spring Framework in 10 steps
+[https://github.com/in28minutes/spring-web-services/tree/master/spring-in-10-steps]
+
+
 1. Setup a spring project using http://start.spring.io
 2. Understand Tight Coupling using BinarySearchAlgorithm example
 3. Make BinarySearchAlgorithm example loosly coupled
@@ -93,6 +96,20 @@ With Microservices, focus is shifting to getting started with developing web app
   - Others - Spring Mobile, Spring Session, Spring Web Services, Spring for Android etc.
 10. Why is spring so popular?
 
+
+### Spring Boot in 10 steps
+[https://github.com/in28minutes/spring-web-services/tree/master/springboot-in-10-steps]
+
+- Step 1 : Introduction to Spring Boot - Goals and Important Features
+- Step 2 : Developing Spring Applications before Spring Boot
+- Step 3 : Using Spring Initializr to create a Spring Boot Application
+- Step 4 : Creating a Simple REST Controller
+- Step 5 : What is Spring Boot Auto Configuration?
+- Step 6 : Spring Boot vs Spring vs Spring MVC
+- Step 7 : Spring Boot Starter Projects - Starter Web and Starter JPA
+- Step 8 : Overview of different Spring Boot Starter Projects
+- Step 9 : Spring Boot Actuator
+- Step 10 : Spring Boot Developer Tools
 
 ### References
 - https://github.com/in28minutes
