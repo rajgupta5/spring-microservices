@@ -57,7 +57,7 @@ Unit Testing builds up Loose Coupling. Architecture Flexibility is a result of S
 - Test
 - XML
 
-!(Spring Framework)[https://docs.spring.io/spring-framework/docs/3.0.x/spring-framework-reference/html/images/spring-overview.png]
+![Spring Framework](https://docs.spring.io/spring-framework/docs/3.0.x/spring-framework-reference/html/images/spring-overview.png)
 
 
 ### Spring Boot Introduction
