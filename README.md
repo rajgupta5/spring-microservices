@@ -2,6 +2,8 @@
 
 ### Introduction
 
+Why Spring? [https://spring.io/why-spring]
+
 Developing RESTful web services is fun. The combination of Spring Boot, Spring Web MVC, Spring Web Services and JPA makes it even more fun. And its even more fun to create Microservices.
 
 There are two parts to this course - RESTful web services and Microservices
@@ -55,11 +57,33 @@ Unit Testing builds up Loose Coupling. Architecture Flexibility is a result of S
 - Test
 - XML
 
+!(Spring Framework)[https://docs.spring.io/spring-framework/docs/3.0.x/spring-framework-reference/html/images/spring-overview.png]
+
 
 ### Spring Boot Introduction
 Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that you can “just run”. Most Spring Boot applications need very little Spring configuration.
 
 With Microservices, focus is shifting to getting started with developing web applications quickly. Spring Boot enables this.
+
+### Spring Framework in 10 steps
+1. Setup a spring project using http://start.spring.io
+2. Understand Tight Coupling using BinarySearchAlgorithm example
+3. Make BinarySearchAlgorithm example loosly coupled
+4. Using Spring to manage dependencies - @Component, @Autowired
+  - @Component is used for declaring the bean
+  - @Autowired is used for declraing dependency
+5. Whats happening in background
+  - Component Scan
+  - Identification of candidate component classes
+  - Creation of beans
+  - Autowiring
+6. Dynamic Autowiring using @Primary
+7. Constructor and Setter Injection
+  - All mandatory dependencies should be resolved using Constructor Injection
+  - By Default Autowired means Setter Injection if there is no constructor defined
+8. Spring Modules
+9. Spring Projects
+10. Why is spring so popular?
 
 
 ### References
