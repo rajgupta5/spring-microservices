@@ -105,6 +105,7 @@ With Microservices, focus is shifting to getting started with developing web app
 - Step 3 : Using Spring Initializr to create a Spring Boot Application
 - Step 4 : Creating a Simple REST Controller
 - Step 5 : What is Spring Boot Auto Configuration?
+  - To see the logs set 'logging.level.org.springframework = debug' in application.properties
 - Step 6 : Spring Boot vs Spring vs Spring MVC
 - Step 7 : Spring Boot Starter Projects - Starter Web and Starter JPA
 - Step 8 : Overview of different Spring Boot Starter Projects
