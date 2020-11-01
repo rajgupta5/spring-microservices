@@ -83,6 +83,14 @@ With Microservices, focus is shifting to getting started with developing web app
   - By Default Autowired means Setter Injection if there is no constructor defined
 8. Spring Modules
 9. Spring Projects
+  - Spring Boot - Quickly build applications
+  - Spring Cloud - Build Cloud native apps
+  - Spring Data - Consistent Data Access
+  - Spring Integration - Application Integration
+  - Spring Batch - Batch Applications
+  - Spring Security - Protect your applications
+  - Spring HATEOAS - HATEOAS compatible services
+  - Others - Spring Mobile, Spring Session, Spring Web Services, Spring for Android etc.
 10. Why is spring so popular?
 
 
