@@ -130,13 +130,10 @@ With Microservices, focus is shifting to getting started with developing web app
       - Actuator : Enables Advanced Monitoring and Tracing of applications.
       - Embedded Server Integrations - Since server is integrated into the application, I would NOT need to have a separate application server installed on the server.
       - Default Error Handling
-
-
-
-
 - Step 7 : Spring Boot Starter Projects - Starter Web and Starter JPA
 - Step 8 : Overview of different Spring Boot Starter Projects
 - Step 9 : Spring Boot Actuator
+  - To enable use 'management.endpoints.web.exposure.include=*' in application.properties
 - Step 10 : Spring Boot Developer Tools
 
 ### References
