@@ -136,6 +136,10 @@ With Microservices, focus is shifting to getting started with developing web app
   - To enable use 'management.endpoints.web.exposure.include=*' in application.properties
 - Step 10 : Spring Boot Developer Tools
 
+## Jackson Issue Solutions ##
+- https://www.baeldung.com/jackson-exception
+
+
 ### References
 - https://github.com/in28minutes
 - https://www.springboottutorial.com/
