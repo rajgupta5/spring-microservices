@@ -138,6 +138,7 @@ With Microservices, focus is shifting to getting started with developing web app
 
 ## Jackson Issue Solutions ##
 - https://www.baeldung.com/jackson-exception
+- https://www.baeldung.com/jackson-deserialize-json-unknown-properties
 
 
 ### References
